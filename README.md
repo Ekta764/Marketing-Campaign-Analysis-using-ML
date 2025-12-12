@@ -130,8 +130,8 @@ Use catalog + web channels for promotions.
 Focus on customers with a history of accepting campaigns.
 
 **Repository Contents**
-/presentation
-    └── Machine_Learning_Final_PPT.pdf
+/analysis
+    └── Marketing Campaign Analysis using Machine Learning.pdf
 
 /excel_analysis_screenshots
     └── (screenshots of pivot tables, charts, correlations, regression output, etc.)
